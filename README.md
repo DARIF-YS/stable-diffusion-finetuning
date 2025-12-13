@@ -1,7 +1,10 @@
 ## Stable Diffusion Fine-tuning with DreamBooth
 
-This repository provides a practical implementation of **DreamBooth-based fine-tuning** applied to **Stable Diffusion v1.5**.  
-The goal is to personalize a pre-trained diffusion model so it can generate images of a **specific subject or concept** based on text prompts.
+This repository provides a practical and end-to-end implementation of **DreamBooth-based fine-tuning** applied to **Stable Diffusion v1.5**.  
+The main objective is to personalize a pre-trained text-to-image diffusion model by teaching it a **specific subject or visual concept** from a limited set of images.
+
+Once fine-tuned, the model is able to generate **high-quality and consistent images** of the learned concept using **natural language prompts**, while preserving the general image generation capabilities of Stable Diffusion.
+
 
 ### Project Workflow
 
