@@ -1,0 +1,10 @@
+accelerate
+torchvision
+transformers
+ftfy
+tensorboard
+Jinja2
+peft
+xformers 
+bitsandbytes 
+gradio
