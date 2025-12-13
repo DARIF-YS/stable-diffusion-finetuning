@@ -1,6 +1,7 @@
-## Stable Diffusion Fine-tuning
+## Personalized Generative AI Model
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1a_TwL4icFsFpoNK5qZxVGdsSgu-qzvbH/view?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1a_TwL4icFsFpoNK5qZxVGdsSgu-qzvbH)  
+[![HuggingFace Model](https://img.shields.io/badge/HuggingFace-KDY--model-blue?logo=huggingface)](https://huggingface.co/darif-ys/KDY-model)
 
 This repository provides a practical and end-to-end implementation of **DreamBooth-based fine-tuning** applied to **Stable Diffusion v1.5**.  
 The main objective is to personalize a pre-trained text-to-image diffusion model by teaching it a **specific subject or visual concept** from a limited set of images.
