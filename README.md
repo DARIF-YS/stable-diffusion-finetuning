@@ -1,7 +1,7 @@
 ## Stable Diffusion Fine-tuning with DreamBooth
 
-This project implements the **fine-tuning of the Stable Diffusion v1.5 model** using **DreamBooth**, enabling the generation of **personalized images** from **textual descriptions** (prompts).  
-The goal is to train the model to reproduce a specific person, object, or concept with high visual fidelity and creative flexibility.
+This repository provides a practical implementation of **DreamBooth-based fine-tuning** applied to **Stable Diffusion v1.5**.  
+The goal is to personalize a pre-trained diffusion model so it can generate images of a **specific subject or concept** based on text prompts.
 
 ### Project Workflow
 
@@ -40,11 +40,10 @@ The goal is to train the model to reproduce a specific person, object, or concep
 
 ### References
 
-- https://dreambooth.github.io/  
-- https://github.com/huggingface/diffusers
-- https://huggingface.co/docs/diffusers/training/dreambooth  
-- https://huggingface.co/stabilityai/stable-diffusion-3.5-large  
+- *https://dreambooth.github.io/*
+- *https://github.com/huggingface/diffusers*
+- *https://huggingface.co/docs/diffusers/training/dreambooth*
+- *https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5*
 
----
 
-**Yassine DARIF | 2025**
+### *Yassine DARIF* | 2025
