@@ -12,7 +12,7 @@ Once fine-tuned, the model is able to generate **high-quality and consistent ima
 2. **Environment Setup:** Python configuration and installation of all dependencies.  
 3. **Base Model Testing:** Evaluation of the original Stable Diffusion v1.5 before fine-tuning.  
 4. **DreamBooth Training:** Fine-tuning the model on a personalized image dataset.  
-5. **Hyperparameter Optimization:** Adjustment of learning rate, batch size, and training steps.  
+5. **Hyperparameter Optimization:** Adjusting training settings to enhance the model's learning and results.
 6. **Model Saving & Deployment:** Exporting and publishing the fine-tuned model on HuggingFace.  
 7. **Image Generation:** Producing images through detailed textual prompts.  
 8. **Pipeline Automation:** Ensuring reproducibility and workflow automation.
