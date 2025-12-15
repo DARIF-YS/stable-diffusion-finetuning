@@ -1,4 +1,4 @@
-## Personalized Generative AI Model
+## 🧠 Personalized Generative AI Model
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1a_TwL4icFsFpoNK5qZxVGdsSgu-qzvbH) [![HuggingFace Model](https://img.shields.io/badge/HuggingFace-KDY--model-blue?logo=huggingface)](https://huggingface.co/darif-ys/KDY-model)
 
@@ -51,5 +51,5 @@ Once fine-tuned, the model is able to generate **high-quality and consistent ima
 - *https://huggingface.co/docs/diffusers/training/dreambooth*
 - *https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5*
 
-
-### *Yassine DARIF* | 2025
+__
+*Developed by Yassine DARIF - 2025*
