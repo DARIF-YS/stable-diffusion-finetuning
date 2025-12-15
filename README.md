@@ -52,4 +52,5 @@ Once fine-tuned, the model is able to generate **high-quality and consistent ima
 - *https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5*
 
 __
+
 *Developed by Yassine DARIF - 2025*
